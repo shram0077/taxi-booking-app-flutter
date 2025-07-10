@@ -36,10 +36,10 @@ Here are some screenshots from the app UI:
     <td><img src="assets/template/map_theme.png" width="300"/></td>
     <td><img src="assets/template/ride_history.png" width="300"/></td>
     <td><img src="assets/template/confirm_booking.png" width="300"/></td>
+        <td><img src="assets/template/dark_theme.png" width="300"/></td>
+
   </tr>
-  <tr>
-    <td><img src="assets/template/dark_theme.png" width="300"/></td>
-  </tr>
+
 </table>
 
 ---
