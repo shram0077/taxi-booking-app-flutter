@@ -16,7 +16,6 @@ A full-featured **Flutter Taxi Booking App** built with Firebase, Google Maps, a
 🎉 Confetti and fortune wheel for daily rewards  
 📍 Location tracking using geolocator and geocoding  
 🪪 Custom license plate widget and car information  
-🔔 Push notifications and alerts  
 
 ---
 
