@@ -1,154 +1,129 @@
-# Taxi Booking App Flutter
+# 🚖 Taxi Booking App Flutter
 
 A full-featured **Flutter Taxi Booking App** built with Firebase, Google Maps, and many modern Flutter packages to provide a smooth, efficient, and engaging ride-hailing experience for both passengers and drivers.
 
 ---
 
-## Features
+## ✨ Features
 
-- Real-time ride booking with Google Maps integration  
-- Firebase Authentication & Firestore for user management and ride data  
-- Dynamic ride requests and driver matching  
-- Animated splash screens and smooth UI animations  
-- In-app payment and wallet system support  
-- OTP verification and secure user login  
-- Driver and passenger profiles with rating system  
-- Confetti and fortune wheel rewards for user engagement  
-- Location tracking with geolocator and geocoding  
-- Custom license plate widget and vehicle details  
-- Push notifications and alerts  
+✅ Real-time ride booking with Google Maps integration  
+🔐 Firebase Authentication & Firestore for user management and ride data  
+🚗 Dynamic ride requests and driver matching  
+🎬 Animated splash screens and smooth UI transitions  
+💳 In-app payment and wallet system support  
+📲 OTP verification and secure login  
+👤 Driver and passenger profiles with rating system  
+🎉 Confetti and fortune wheel for daily rewards  
+📍 Location tracking using geolocator and geocoding  
+🪪 Custom license plate widget and car information  
+🔔 Push notifications and alerts  
 
 ---
 
-## Screenshots
-
-Here are some screenshots from the app UI:
-
-## Screenshots
+## 🖼️ Screenshots
 
 <table>
   <tr>
     <td><img src="assets/template/home.png" width="300"/></td>
     <td><img src="assets/template/map.png" width="300"/></td>
     <td><img src="assets/template/deposit_money.png" width="300"/></td>
-    <td><img src="assets/template/dark_theme.png" width="300"/></td>
-
   </tr>
   <tr>
+    <td><img src="assets/template/dark_theme.png" width="300"/></td>
     <td><img src="assets/template/map_theme.png" width="300"/></td>
     <td><img src="assets/template/ride_history.png" width="300"/></td>
-    <td><img src="assets/template/confirm_booking.png" width="300"/></td>
-
   </tr>
-
+  <tr>
+    <td><img src="assets/template/confirm_booking.png" width="300"/></td>
+  </tr>
 </table>
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 🔧 Prerequisites
 
-- Flutter SDK (version 3.6.0 or higher)  
-- Firebase project configured for your app  
-- Google Maps API key  
+- ✅ Flutter SDK (version 3.6.0 or higher)  
+- 🔥 Firebase project configured  
+- 🗺️ Google Maps API key
 
-### Installation
+### 🛠 Installation
 
-1. Clone the repository:
+```bash
+# Clone the repo
+git clone https://github.com/shram0077/taxi-booking-app-flutter.git
+cd taxi-booking-app-flutter
 
-   ```bash
-   git clone https://github.com/shram0077/taxi-booking-app-flutter.git
-   cd taxi-booking-app-flutter
-Install dependencies:
-
-bash
-Copy
-Edit
+# Install dependencies
 flutter pub get
-Add your Firebase config files:
+🔑 Firebase Configuration
+Add google-services.json to android/app/
 
-google-services.json (Android) inside android/app/
+Add GoogleService-Info.plist to ios/Runner/
 
-GoogleService-Info.plist (iOS) inside ios/Runner/
-
-Run the app:
-
+▶️ Run the App
 bash
 Copy
 Edit
 flutter run
-Packages Used
-Firebase
+📦 Packages Used
+🔥 Firebase
 firebase_core, firebase_auth, cloud_firestore
-For backend services, authentication, and realtime database.
+→ Authentication, backend, and realtime database
 
-Google Maps & Location
+🗺 Maps & Location
 google_maps_flutter, geolocator, geocoding
-For maps display, real-time location tracking, and reverse geocoding.
+→ Live map, tracking, and address conversion
 
-UI & Animations
+🎨 UI & Animations
 google_fonts, flutter_svg, lottie, animated_splash_screen, flutter_animate, shimmer, animate_do, flutter_staggered_animations
-For rich UI, vector graphics, splash screens, and animations.
 
-User Interaction & Input
+📲 User Input
 pin_code_fields, flutter_typeahead, flutter_rating_bar
-For secure inputs, autocomplete, and rating widgets.
 
-State Management & Utilities
+⚙️ State & Utilities
 provider, get, shared_preferences, intl, restart_app
-For state management, preferences, localization, and app restart.
 
-Network & HTTP
+🌐 Networking & Permissions
 dio, http, url_launcher, permission_handler
-For network requests, URL launching, and permission handling.
 
-Media & Images
+🖼 Media
 image_picker, image_cropper, cached_network_image
-For handling images and caching.
 
-Fun & Engagement
+🎁 Fun & Engagement
 confetti, flutter_fortune_wheel, audioplayers, alert_info
-For user rewards, sound effects, and alerts.
 
-Security
-encrypt
-For encryption utilities to secure sensitive data.
+🔐 Security
+encrypt → Secure data handling
 
-Folder Structure
-bash
+🗂️ Folder Structure
+vbnet
 Copy
 Edit
-/lib
-  /Screens       - UI screens  
-  /Services      - API and Firebase services  
-  /Widgets       - Reusable widgets  
-  /Models        - Data models  
+lib/
+├── Screens          → UI screens
+├── Services         → Firebase and utility services
+├── Widgets          → Reusable components
+├── Models           → Data structures
 
-/assets
-  /animations    - Lottie animation files  
-  /images        - Icons and images  
-  /sounds        - Audio files  
+assets/
+├── animations/      → Lottie animations
+├── images/          → Icons & images
+├── sounds/          → Audio files
 
-/mapstyle        - Custom Google Map styles
-Contribution
-Feel free to fork this repository, improve the code, and send pull requests!
-Open issues for bugs or feature requests are welcome.
+mapstyle/            → Custom Google Maps themes
+🤝 Contribution
+Feel free to fork, improve, and submit pull requests.
+Report any bugs or feature ideas via issues.
 
-License
-This project is private and not published to pub.dev.
-Please contact the author for any inquiries.
+📜 License
+🔒 This project is private and not published to pub.dev.
+Contact the author for permission or licensing info.
 
-Contact
-Shram0077 – GitHub Profile
-Email: shram0077@gmail.com
+👤 Contact
+Shram0077
+📫 Email: shram0077@gmail.com
+💻 GitHub: github.com/shram0077
 
-Thank you for checking out this project! 🚖✨
-
-yaml
-Copy
-Edit
-
----
-
-If you want, I can generate this as a ready-to-upload `README.md` file for you!
+Thank you for checking out this project! Built with ❤️ in Flutter.
