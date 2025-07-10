@@ -1,0 +1,147 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/var/www/new-toc/public/uploads/taxi_1742681825.png",
+    "format": "json",
+    "formatDescription": "The image format and characteristics",
+    "mimeType": "application/json",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 512,
+      "height": 512,
+      "x": 0,
+      "y": 0
+    },
+    "resolution": {
+      "x": 35.43,
+      "y": 35.43
+    },
+    "printSize": {
+      "x": 14.451,
+      "y": 14.451
+    },
+    "units": "PixelsPerCentimeter",
+    "type": "TrueColorAlpha",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "alpha": 8,
+      "red": 8,
+      "green": 8,
+      "blue": 8
+    },
+    "pixels": 262144,
+    "imageStatistics": {
+      "all": {
+        "min": 0,
+        "max": 255,
+        "mean": 177.503,
+        "standardDeviation": 92.0987,
+        "kurtosis": -1.1405,
+        "skewness": -0.825359,
+        "entropy": 0.241567
+      }
+    },
+    "channelStatistics": {
+      "alpha": {
+        "min": 255,
+        "max": 0,
+        "mean": 144.78,
+        "standardDeviation": 126.139,
+        "kurtosis": -1.92303,
+        "skewness": 0.273454,
+        "entropy": 0.135266
+      },
+      "red": {
+        "min": 35,
+        "max": 255,
+        "mean": 222.357,
+        "standardDeviation": 67.0461,
+        "kurtosis": 2.54866,
+        "skewness": -2.03654,
+        "entropy": 0.239658
+      },
+      "green": {
+        "min": 41,
+        "max": 255,
+        "mean": 210.847,
+        "standardDeviation": 65.7229,
+        "kurtosis": 0.233637,
+        "skewness": -1.29978,
+        "entropy": 0.302676
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 166.587,
+        "standardDeviation": 109.487,
+        "kurtosis": -1.59444,
+        "skewness": -0.527248,
+        "entropy": 0.288666
+      }
+    },
+    "alpha": "#FFFFFF00",
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "backgroundColor": "#FFFFFFFF",
+    "borderColor": "#DFDFDFFF",
+    "matteColor": "#BDBDBDFF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 512,
+      "height": 512,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "Zip",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2025-03-22T22:17:05+00:00",
+      "date:modify": "2025-03-22T22:17:05+00:00",
+      "png:IHDR.bit-depth-orig": "8",
+      "png:IHDR.bit_depth": "8",
+      "png:IHDR.color-type-orig": "6",
+      "png:IHDR.color_type": "6 (RGBA)",
+      "png:IHDR.interlace_method": "0 (Not interlaced)",
+      "png:IHDR.width,height": "512, 512",
+      "png:pHYs": "x_res=3543, y_res=3543, units=1",
+      "png:sRGB": "intent=0 (Perceptual Intent)",
+      "png:text": "1 tEXt/zTXt/iTXt chunks were found",
+      "signature": "d3e0e46316eec5099ae0fa0f3d30104929d4fbbcacfae7273711901c43ced7a5",
+      "Software": "www.inkscape.org"
+    },
+    "tainted": false,
+    "filesize": "42898B",
+    "numberPixels": "262144",
+    "pixelsPerSecond": "2.94726GB",
+    "userTime": "0.000u",
+    "elapsedTime": "0:01.000",
+    "version": "ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org"
+  }
+}
+]
