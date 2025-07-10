@@ -24,13 +24,23 @@ A full-featured **Flutter Taxi Booking App** built with Firebase, Google Maps, a
 
 Here are some screenshots from the app UI:
 
-![Home Screen](assets/template/home.png)  
-![Map View](assets/template/map.jpg)  
-![Deposit Money](assets/template/deposit_money.png)  
-![Map Theme Selector](assets/template/map_theme.png)  
-![Ride History](assets/template/ride_history.png)  
-![Confirm Booking](assets/template/confirm_booking.png)  
-![Dark Theme](assets/template/dark_theme.png)  
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="assets/template/home.png" width="300"/></td>
+    <td><img src="assets/template/map.jpg" width="300"/></td>
+    <td><img src="assets/template/deposit_money.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/template/map_theme.png" width="300"/></td>
+    <td><img src="assets/template/ride_history.png" width="300"/></td>
+    <td><img src="assets/template/confirm_booking.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/template/dark_theme.png" width="300"/></td>
+  </tr>
+</table>
 
 ---
 
