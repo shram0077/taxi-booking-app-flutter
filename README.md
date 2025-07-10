@@ -61,10 +61,7 @@ Add google-services.json to android/app/
 
 Add GoogleService-Info.plist to ios/Runner/
 
-▶️ Run the App
-bash
-Copy
-Edit
+
 flutter run
 📦 Packages Used
 🔥 Firebase
